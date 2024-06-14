@@ -1,0 +1,7 @@
+<Project id="29a809ea-fc1e-ac09-60ad-214b6fcdc388" name="pets_data" location="H:\Mi unidad\DATOS\Lepto_pets\pets_data" description="" schemaVersion="102" epiVersion="" createDate="11/10/2022 11:38:40" useMetadataDbForCollectedData="" useBackgroundOnAllPages="False">
+  <CollectedData>
+    <Database connectionString="zHDkaR2yI5Pbh2/LYHfZ7ljYKFwMFLb6TrxCvYEORi4bv/poiLafstHPdMLNw7x3oCgRB61GQf/lT0a3ags7GbIQUgpgZP7nna21BoSpyrLPNdX6iwTBIXLsY+8w8xR+4hdu6v4efGcqr/ecVbS186x6AyHPAjVGcfSB9kzUxbU=" dataDriver="Epi.Data.Office.AccessDBFactory, Epi.Data.Office" />
+  </CollectedData>
+  <Metadata source="2" />
+  <EnterMakeviewInterpreter source="Epi.Core.EnterInterpreter" />
+</Project>
